@@ -1,0 +1,5 @@
+H:\Taukir\QueueApp\QueueApp\bin\Debug\QueueApp.exe.config
+H:\Taukir\QueueApp\QueueApp\bin\Debug\QueueApp.exe
+H:\Taukir\QueueApp\QueueApp\bin\Debug\QueueApp.pdb
+H:\Taukir\QueueApp\QueueApp\obj\Debug\QueueApp.exe
+H:\Taukir\QueueApp\QueueApp\obj\Debug\QueueApp.pdb
